@@ -1,0 +1,29 @@
+{
+  "_index-DW_MHI2K.js": {
+    "file": "assets/index-DW_MHI2K.js",
+    "name": "index"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-Bc37jiKF.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-1JlqZQyf.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_index-DW_MHI2K.js"
+    ]
+  },
+  "resources/js/vue.js": {
+    "file": "assets/vue-DtJ7OWOY.js",
+    "name": "vue",
+    "src": "resources/js/vue.js",
+    "isEntry": true,
+    "imports": [
+      "_index-DW_MHI2K.js"
+    ]
+  }
+}
